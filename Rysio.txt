@@ -1,0 +1,5 @@
+Plato, Feast, philosophy
+Shakespeare, Hamlet, tragedy, baroque
+Cormen, Algorithms, computer science, handbook
+Mickiewicz, Pan Tadeusz, classics, romance, reading
+Aquinas, Summa of Theology, philosophy, medieval
